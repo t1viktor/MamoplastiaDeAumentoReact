@@ -33,7 +33,7 @@ export default function ModalHeader() {
           <div onClick={(e) => e.stopPropagation()} className="z-50 fixed h-[90%] bg-slate-800 py-6 rounded-4xl shadow-lg w-[60%] max-lg:w-[90%] h-[80%] max-lg:h-[76%] border-[1px] border-slate-500 flex flex-col space-y-2 justify-between">
             <div className="w-full flex  max-md:flex-col-reverse items-center justify-items-center text-center justify-between border-b-[1px] border-slate-500 max-md:text-xl">
                   {/* Botão para fechar */}
-            <h2 className="text-orange-200 text-4xl text-left px-8 py-4 max-md:text-3xl">Sobre a Ginecomastia</h2>
+            <h2 className="text-orange-200 text-4xl text-left px-8 py-4 max-md:text-3xl">Sobre a Mamoplastia de aumento</h2>
             <button
               onClick={() => setIsOpen(false)}
               className="px-4 py-2 bg-slate-800 font-semibold text-white rounded-md w-60 cursor-pointer"
@@ -42,9 +42,9 @@ export default function ModalHeader() {
             </button>
             </div>
 
-            <h2 className="font-semibold mb-2 text-blue-500 text-3xl px-8 max-md:text-2xl">O que é a Ginecomastia?
+            <h2 className="font-semibold mb-2 text-blue-500 text-3xl px-8 max-md:text-2xl">O que é a Mamoplastia de aumento?
             </h2>
-            <p className="text-gray-100 px-8 py-2 text-lg max-md:text-md">A ginecomastia é o aumento do tecido mamário em homens, podendo causar desconforto estético e até emocional. A cirurgia para correção da ginecomastia visa reduzir e harmonizar o contorno torácico. Após o procedimento cirúrgico, alguns cuidados são indispensáveis para assegurar uma recuperação tranquila, minimizar riscos e atingir os melhores resultados possíveis. A seguir, apresentaremos orientações detalhadas sobre os cuidados pós-operatórios, alimentação, posicionamento corporal, higiene e uso de malha compressiva e meias de compressão.
+            <p className="text-gray-100 px-8 py-2 text-lg max-md:text-md">A mamoplastia de aumento é a cirurgia de implante de próteses de silicone nas mamas, visando melhorar o tamanho, a forma e a harmonia do corpo. Após o procedimento, alguns cuidados são fundamentais para garantir uma recuperação tranquila, segura e com os melhores resultados possíveis. Neste guia, você encontrará orientações completas sobre o que fazer no pós-operatório, desde a higiene e alimentação até a postura ideal, tipo de sutiã recomendado e uso de meias de compressão.
 </p>
 
             <div className="cardAlert">

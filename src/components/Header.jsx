@@ -3,9 +3,9 @@ import { FaBars, FaTimes } from "react-icons/fa";
 import ModalHeader from "./ModalHeader";
 
 const logo = "/img/LOGO_TRANSPARENTE_1.png";
-const torso = "/img/imgHeaderGinecomastia.png";
+const torso = "/img/imgHeaderMamoplastiaDeAumento.png";
 
-const tittleHeader = "Ginecomastia";
+const tittleHeader = "Mamoplastia de aumento";
 const descHeader =
   "Procedimento cirúrgico avançado realizado por especialistas, proporcionando resultados seguros e naturais";
 
